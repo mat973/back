@@ -1,0 +1,1 @@
+{"version":3,"sources":["PointList.css","MainView.css"],"names":[],"mappings":"AAAA,QACI,gBAAiB,CACjB,aAAc,CACd,oBACJ,CCJA,WACI,eACJ","file":"main.b9aebdec.chunk.css","sourcesContent":[".mylist {\n    max-height: 300px;\n    overflow: auto;\n    display:inline-block;\n}\n","#deleteall {\n    margin-top: 10px;\n}\n"]}
